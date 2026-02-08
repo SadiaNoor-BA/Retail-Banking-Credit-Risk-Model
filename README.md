@@ -23,3 +23,5 @@ At a simulated **0.02 rate hike**, the model forecasts a projected revenue incre
 
 ## Business Value
 This project provides the bank with dual-layer visibility: it **automates the operational burden** of credit screening while providing a strategic **"guardrail"** to protect interest margins during economic volatility.
+
+![Project Dashboard](dashboard.png)
